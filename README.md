@@ -26,4 +26,4 @@ Papers related to Graph Neural Network
 9. 2019-AAAI-Multi-GCN: Graph Convolutional Networks for Multi-View Networks, with Applications to Global Poverty
 10. [2019-IJCAI-Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference](http://www.shichuan.org/hin/time/2019.IJCAI%202019%20Graph%20Convolutional%20Networks%20on%20User%20Mobility%20Heterogeneous%20Graphs%20for%20Social%20Relationship%20Inference.pdf)  :ballot_box_with_check:
 11. [2020-AAAI-Fast and Deep Graph Neural Networks](https://arxiv.org/pdf/1911.08941.pdf)
-12. 
+12. [2020_ICLR_strategies for pre-training graph neural networks](https://openreview.net/forum?id=HJlWWJSFDH)
