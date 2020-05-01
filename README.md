@@ -8,7 +8,7 @@ Papers related to Graph Neural Network
    - authors in DeepMind, Google, and MIT
 2. 2018-Graph Neural Networks: A Review of Methods and Applications （Maosong Sun）
 3. 2018-Deep Learning on Graphs: A Survey （Wenwu Zhu）
-4. 2019-A Comprehensive Survey on Graph Neural Networks
+4. [2020-TNNLS-A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)
 
 
 
