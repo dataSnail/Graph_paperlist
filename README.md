@@ -39,5 +39,9 @@ Papers related to Graph Neural Network
 
 [2020-arXive-Open Graph Bechmark: Datasets for Machine Learning on Graphs](https://arxiv.org/pdf/2005.00687.pdf)
 
+Kipf-Thesis
+
+
+
 
 
