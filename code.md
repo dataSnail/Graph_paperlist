@@ -1,0 +1,1 @@
+**StellarGraph** is a Python library for machine learning on [graphs and networks](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))：https://github.com/stellargraph/stellargraph
