@@ -34,6 +34,7 @@ Papers related to Graph Neural Network
 16. [2020-ICLR-What Can Neural Networks Reason About?](https://openreview.net/forum?id=rJxbJeHFPS) :tomato:
 17. [2020-ICLR-DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://openreview.net/forum?id=rJxbJeHFPS) :tomato:
 18. [2020-ICLR-PAIR NORM: TACKLING OVERSMOOTHING IN GNNs](https://arxiv.org/pdf/1909.12223.pdf) :tomato:
+19. 
 
 **03 others**
 
